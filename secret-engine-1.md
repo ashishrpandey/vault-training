@@ -8,7 +8,7 @@ Other secret engines are -
 - database 
 
 
-Enable the ks secret at path /kv 
+Enable the kv secret at path kv/ 
    
       vault secrets enable -path=kv kv
       Success! Enabled the kv secrets engine at: kv/
