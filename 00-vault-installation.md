@@ -34,8 +34,8 @@ The commnands will autocomplete .
 ## Store the env variables
 Open another terminal and collect and store somewhere VAULT_ADDR, Unseal Key and Root token from the utput and save it somewhere safe
    
-   Unseal Key: wpmMqONasIkCrBJv01fcrrA8HhTbnF+IhZ+vCw0=
-    Root Token: s.Afex2WcTqVT1tv4WydfasfN5
+     Unseal Key: wpmMqONasIkCrBJv01fcrrA8HhTbnF+IhZ+vCw0=
+     Root Token: s.Afex2WcTqVT1tv4WydfasfN5
 
 Export these variables 
 
